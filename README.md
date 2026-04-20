@@ -6,6 +6,12 @@ The project combines **web scraping, database pipelines, and backend analytics**
 
 ---
 
+# University Dissertation Project 
+
+This was created as part of my final year dissertation. The Riot API has since changed, so this code may not run without modifications. Showcasing the architecture and data pipeline design.
+
+---
+
 ## Features
 
 * Analyse a player's recent matches
@@ -41,14 +47,7 @@ This project includes a complete data pipeline:
 Pipeline overview:
 
 OP.GG HTML
-↓
-BeautifulSoup Scraper
-↓
-Pandas Data Processing
-↓
-MySQL Database
-↓
-Flask Analytics Application
+BeautifulSoup Scraper -> Pandas Data Processing -> MySQL Database -> Flask Analytics Application
 
 ---
 
