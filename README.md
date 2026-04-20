@@ -29,7 +29,6 @@ This was created as part of my final year dissertation. The Riot API has since c
 * MySQL
 * BeautifulSoup
 * Pandas
-* SQLAlchemy
 * Riot Games API
 
 ---
