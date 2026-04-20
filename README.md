@@ -153,16 +153,6 @@ The application analyses a player's recent matches and provides feedback such as
 
 ---
 
-## Future Improvements
-
-* Add caching for Riot API calls
-* Automate OP.GG scraping instead of relying on saved HTML
-* Add visualisations for performance metrics
-* Containerise the application with Docker
-* Deploy the application to a cloud platform
-
----
-
 ## Disclaimer
 
 This project uses the Riot Games API but is not endorsed by Riot Games.
